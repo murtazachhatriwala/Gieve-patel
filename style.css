@@ -1,0 +1,41 @@
+
+
+section.s1 {
+    display: flex;
+    justify-content: center;
+}.s2{
+ 
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 5px;
+}.card-img, .card-img-bottom, .card-img-top {
+    width: 18rem;
+    height: 200px;
+    
+}.card1{
+    border-radius: 15px;
+    width: 108%;
+    border-radius: 3%;
+}.s3{
+    display: block;
+ 
+ margin: auto;
+}.card{
+    border-radius: 20px;
+    
+}.carousel-item{
+    text-align: center;
+    font-size: 2rem;
+}.p3{
+    font-size: 1.5rem;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 0 5px;
+}.A{
+    border: 1px solid black;
+    margin: 0 5px;
+     border-radius: 15px;
+}.h11{
+   
+}
